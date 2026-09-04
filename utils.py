@@ -57,7 +57,7 @@ def save_loss_plot(loss, path):
     plt.grid(True)
     plt.legend()
     plt.savefig(os.path.join(path, 'loss.png'))
-    plt.close()  # 关闭图像窗口，释放内存
+    plt.close()  
 
 
 def add_gaussian_noise(image, noise_std):
