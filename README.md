@@ -40,6 +40,9 @@ data/
 │   └── ...
 └── WED/         # training images (user-provided)
 ```
+## Results
+
+![Results](./fig/fig.png)
 
 ## Acknowledgements
 
